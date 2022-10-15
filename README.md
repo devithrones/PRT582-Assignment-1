@@ -16,3 +16,4 @@ vi.	Player can also quit the game at any time.
 
 If you want to run the game by GUI, and don't forget to install the SimpleGUITk package by follow command:  
 pip install SimpleGUITk  
+![Image text](https://github.com/devithrones/PRT582-Assignment-1/blob/main/RPS1.png)  
